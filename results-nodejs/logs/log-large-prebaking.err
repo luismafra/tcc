@@ -1,0 +1,3402 @@
+nohup: ignoring input
+node: no process found
+python3: no process found
+java: no process found
+rm: cannot remove '*.img': No such file or directory
+functions/nodejs/nodejs-criu-builder.sh: line 75: 27696 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6962967993810457, 6962969636431478]
+Applying requests
+Writing results
+Killing Process: 27727
+
+Waiting...
+
+End of execution: 1
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.026129) Writing stats
+Killed node(27696) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 27733 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6962996526931775, 6962998180849936]
+Applying requests
+Writing results
+Killing Process: 27763
+
+Waiting...
+
+End of execution: 2
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.020209) Writing stats
+Killed node(27733) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 27761 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6963024665211152, 6963026424737488]
+Applying requests
+Writing results
+Killing Process: 27791
+
+Waiting...
+
+End of execution: 3
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.023131) Writing stats
+Killed node(27761) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 27789 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6963052797691620, 6963054374599261]
+Applying requests
+Writing results
+Killing Process: 27819
+
+Waiting...
+
+End of execution: 4
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.015589) Writing stats
+Killed node(27789) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 27817 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6963080501431074, 6963082045050278]
+Applying requests
+Writing results
+Killing Process: 27847
+
+Waiting...
+
+End of execution: 5
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.016803) Writing stats
+Killed node(27817) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 27845 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6963108530045313, 6963110147049563]
+Applying requests
+Writing results
+Killing Process: 27875
+
+Waiting...
+
+End of execution: 6
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019929) Writing stats
+Killed node(27845) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 27873 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6963136494580237, 6963138034521925]
+Applying requests
+Writing results
+Killing Process: 27903
+
+Waiting...
+
+End of execution: 7
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019275) Writing stats
+Killed node(27873) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 27901 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6963163924661064, 6963165447614836]
+Applying requests
+Writing results
+Killing Process: 27931
+
+Waiting...
+
+End of execution: 8
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.021150) Writing stats
+Killed node(27901) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 27929 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6963191720098493, 6963193239216318]
+Applying requests
+Writing results
+Killing Process: 27959
+
+Waiting...
+
+End of execution: 9
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019265) Writing stats
+Killed node(27929) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 27957 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6963219221905838, 6963220799176601]
+Applying requests
+Writing results
+Killing Process: 27987
+
+Waiting...
+
+End of execution: 10
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.020421) Writing stats
+Killed node(27957) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 27985 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6963247895969051, 6963249511788524]
+Applying requests
+Writing results
+Killing Process: 28015
+
+Waiting...
+
+End of execution: 11
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.015039) Writing stats
+Killed node(27985) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 28014 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6963276123437283, 6963277682764623]
+Applying requests
+Writing results
+Killing Process: 28044
+
+Waiting...
+
+End of execution: 12
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.018250) Writing stats
+Killed node(28014) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 28042 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6963304068253287, 6963305746468813]
+Applying requests
+Writing results
+Killing Process: 28072
+
+Waiting...
+
+End of execution: 13
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.018174) Writing stats
+Killed node(28042) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 28071 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6963332329680441, 6963333863211801]
+Applying requests
+Writing results
+Killing Process: 28101
+
+Waiting...
+
+End of execution: 14
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019052) Writing stats
+Killed node(28071) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 28099 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6963360319637640, 6963362017490393]
+Applying requests
+Writing results
+Killing Process: 28129
+
+Waiting...
+
+End of execution: 15
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.018610) Writing stats
+Killed node(28099) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 28127 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6963388049620523, 6963389760920025]
+Applying requests
+Writing results
+Killing Process: 28157
+
+Waiting...
+
+End of execution: 16
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.020021) Writing stats
+Killed node(28127) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 28156 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6963416285712224, 6963417835155562]
+Applying requests
+Writing results
+Killing Process: 28186
+
+Waiting...
+
+End of execution: 17
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.016208) Writing stats
+Killed node(28156) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 28184 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6963444311171622, 6963445840592303]
+Applying requests
+Writing results
+Killing Process: 28214
+
+Waiting...
+
+End of execution: 18
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.015895) Writing stats
+Killed node(28184) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 28212 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6963472178174959, 6963473775801266]
+Applying requests
+Writing results
+Killing Process: 28242
+
+Waiting...
+
+End of execution: 19
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019974) Writing stats
+Killed node(28212) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 28240 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6963500548210007, 6963502358611197]
+Applying requests
+Writing results
+Killing Process: 28270
+
+Waiting...
+
+End of execution: 20
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.018014) Writing stats
+Killed node(28240) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 28268 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6963529255497260, 6963530906395179]
+Applying requests
+Writing results
+Killing Process: 28298
+
+Waiting...
+
+End of execution: 21
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.016782) Writing stats
+Killed node(28268) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 28296 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6963557513570870, 6963559068646166]
+Applying requests
+Writing results
+Killing Process: 28326
+
+Waiting...
+
+End of execution: 22
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.020775) Writing stats
+Killed node(28296) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 28325 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6963585092996719, 6963586595590263]
+Applying requests
+Writing results
+Killing Process: 28355
+
+Waiting...
+
+End of execution: 23
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.016942) Writing stats
+Killed node(28325) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 28353 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6963612675581398, 6963614281513929]
+Applying requests
+Writing results
+Killing Process: 28383
+
+Waiting...
+
+End of execution: 24
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019551) Writing stats
+Killed node(28353) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 28381 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6963640886929298, 6963642613763567]
+Applying requests
+Writing results
+Killing Process: 28411
+
+Waiting...
+
+End of execution: 25
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.017644) Writing stats
+Killed node(28381) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 28409 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6963668984091788, 6963670549824824]
+Applying requests
+Writing results
+Killing Process: 28440
+
+Waiting...
+
+End of execution: 26
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019403) Writing stats
+Killed node(28409) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 28438 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6963697050483649, 6963698771036623]
+Applying requests
+Writing results
+Killing Process: 28468
+
+Waiting...
+
+End of execution: 27
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.018408) Writing stats
+Killed node(28438) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 28466 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6963724689033581, 6963726474637371]
+Applying requests
+Writing results
+Killing Process: 28496
+
+Waiting...
+
+End of execution: 28
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019084) Writing stats
+Killed node(28466) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 28494 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6963752855290883, 6963754450867163]
+Applying requests
+Writing results
+Killing Process: 28524
+
+Waiting...
+
+End of execution: 29
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019176) Writing stats
+Killed node(28494) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 28522 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6963781157025706, 6963782713604779]
+Applying requests
+Writing results
+Killing Process: 28553
+
+Waiting...
+
+End of execution: 30
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019233) Writing stats
+Killed node(28522) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 28551 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6963809507207727, 6963810980082526]
+Applying requests
+Writing results
+Killing Process: 28581
+
+Waiting...
+
+End of execution: 31
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.015813) Writing stats
+Killed node(28551) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 28579 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6963837127867800, 6963838753849893]
+Applying requests
+Writing results
+Killing Process: 28609
+
+Waiting...
+
+End of execution: 32
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.022985) Writing stats
+Killed node(28579) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 28607 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6963864891388446, 6963866439401381]
+Applying requests
+Writing results
+Killing Process: 28637
+
+Waiting...
+
+End of execution: 33
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.016307) Writing stats
+Killed node(28607) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 28636 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6963893235396246, 6963894828899224]
+Applying requests
+Writing results
+Killing Process: 28666
+
+Waiting...
+
+End of execution: 34
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.020309) Writing stats
+Killed node(28636) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 28665 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6963921123312026, 6963922930645366]
+Applying requests
+Writing results
+Killing Process: 28695
+
+Waiting...
+
+End of execution: 35
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.020195) Writing stats
+Killed node(28665) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 28696 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6963949296877550, 6963951013404372]
+Applying requests
+Writing results
+Killing Process: 28726
+
+Waiting...
+
+End of execution: 36
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.018317) Writing stats
+Killed node(28696) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 28724 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6963977499396691, 6963979205266273]
+Applying requests
+Writing results
+Killing Process: 28754
+
+Waiting...
+
+End of execution: 37
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.023506) Writing stats
+Killed node(28724) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 28752 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964005254213324, 6964006839611194]
+Applying requests
+Writing results
+Killing Process: 28782
+
+Waiting...
+
+End of execution: 38
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019468) Writing stats
+Killed node(28752) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 28780 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964033381040744, 6964034991740342]
+Applying requests
+Writing results
+Killing Process: 28811
+
+Waiting...
+
+End of execution: 39
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.020046) Writing stats
+Killed node(28780) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 28808 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964062648096341, 6964064266978854]
+Applying requests
+Writing results
+Killing Process: 28838
+
+Waiting...
+
+End of execution: 40
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.016042) Writing stats
+Killed node(28808) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 28836 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964091126967878, 6964092831015799]
+Applying requests
+Writing results
+Killing Process: 28866
+
+Waiting...
+
+End of execution: 41
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019636) Writing stats
+Killed node(28836) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 28864 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964119737585478, 6964121357669956]
+Applying requests
+Writing results
+Killing Process: 28894
+
+Waiting...
+
+End of execution: 42
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.021407) Writing stats
+Killed node(28864) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 28892 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964147827775435, 6964149474003511]
+Applying requests
+Writing results
+Killing Process: 28922
+
+Waiting...
+
+End of execution: 43
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.024211) Writing stats
+Killed node(28892) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 28920 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964176265575424, 6964177885267314]
+Applying requests
+Writing results
+Killing Process: 28950
+
+Waiting...
+
+End of execution: 44
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.020800) Writing stats
+Killed node(28920) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 28949 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964204495120102, 6964206185188232]
+Applying requests
+Writing results
+Killing Process: 28979
+
+Waiting...
+
+End of execution: 45
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.018210) Writing stats
+Killed node(28949) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 28977 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964233118984265, 6964234719793111]
+Applying requests
+Writing results
+Killing Process: 29007
+
+Waiting...
+
+End of execution: 46
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.020804) Writing stats
+Killed node(28977) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29005 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964260724729445, 6964262269221028]
+Applying requests
+Writing results
+Killing Process: 29035
+
+Waiting...
+
+End of execution: 47
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.022829) Writing stats
+Killed node(29005) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29033 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964288855650271, 6964290383283802]
+Applying requests
+Writing results
+Killing Process: 29063
+
+Waiting...
+
+End of execution: 48
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.018648) Writing stats
+Killed node(29033) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29061 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964316413984558, 6964318055653612]
+Applying requests
+Writing results
+Killing Process: 29091
+
+Waiting...
+
+End of execution: 49
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.021337) Writing stats
+Killed node(29061) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29089 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964344522098203, 6964346117612606]
+Applying requests
+Writing results
+Killing Process: 29119
+
+Waiting...
+
+End of execution: 50
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.020051) Writing stats
+Killed node(29089) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29117 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964372919544386, 6964374499889441]
+Applying requests
+Writing results
+Killing Process: 29147
+
+Waiting...
+
+End of execution: 51
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.020048) Writing stats
+Killed node(29117) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29145 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964401324317022, 6964403286582300]
+Applying requests
+Writing results
+Killing Process: 29175
+
+Waiting...
+
+End of execution: 52
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.021120) Writing stats
+Killed node(29145) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29173 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964430318935253, 6964431936069858]
+Applying requests
+Writing results
+Killing Process: 29203
+
+Waiting...
+
+End of execution: 53
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019564) Writing stats
+Killed node(29173) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29201 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964459048137321, 6964460774319114]
+Applying requests
+Writing results
+Killing Process: 29231
+
+Waiting...
+
+End of execution: 54
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.017426) Writing stats
+Killed node(29201) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29229 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964487083201518, 6964488917077411]
+Applying requests
+Writing results
+Killing Process: 29259
+
+Waiting...
+
+End of execution: 55
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.018891) Writing stats
+Killed node(29229) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29258 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964516682539450, 6964518223912061]
+Applying requests
+Writing results
+Killing Process: 29288
+
+Waiting...
+
+End of execution: 56
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.020133) Writing stats
+Killed node(29258) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29286 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964545149428271, 6964546767429402]
+Applying requests
+Writing results
+Killing Process: 29316
+
+Waiting...
+
+End of execution: 57
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.018650) Writing stats
+Killed node(29286) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29314 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964573996681406, 6964575809216646]
+Applying requests
+Writing results
+Killing Process: 29344
+
+Waiting...
+
+End of execution: 58
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.021525) Writing stats
+Killed node(29314) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29343 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964602087394473, 6964603776047965]
+Applying requests
+Writing results
+Killing Process: 29373
+
+Waiting...
+
+End of execution: 59
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019973) Writing stats
+Killed node(29343) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29371 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964630717293040, 6964632458698020]
+Applying requests
+Writing results
+Killing Process: 29401
+
+Waiting...
+
+End of execution: 60
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.024780) Writing stats
+Killed node(29371) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29399 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964659517987860, 6964661175781869]
+Applying requests
+Writing results
+Killing Process: 29429
+
+Waiting...
+
+End of execution: 61
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.017010) Writing stats
+Killed node(29399) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29427 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964687847877798, 6964689494150988]
+Applying requests
+Writing results
+Killing Process: 29457
+
+Waiting...
+
+End of execution: 62
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.022851) Writing stats
+Killed node(29427) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29455 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964715974862623, 6964717591339967]
+Applying requests
+Writing results
+Killing Process: 29485
+
+Waiting...
+
+End of execution: 63
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.017173) Writing stats
+Killed node(29455) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29483 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964744994493476, 6964746754480291]
+Applying requests
+Writing results
+Killing Process: 29513
+
+Waiting...
+
+End of execution: 64
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.018090) Writing stats
+Killed node(29483) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29511 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964773542168350, 6964775049646539]
+Applying requests
+Writing results
+Killing Process: 29541
+
+Waiting...
+
+End of execution: 65
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.018534) Writing stats
+Killed node(29511) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29539 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964801794160832, 6964803458924184]
+Applying requests
+Writing results
+Killing Process: 29569
+
+Waiting...
+
+End of execution: 66
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.020876) Writing stats
+Killed node(29539) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29568 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964829776537245, 6964831355996979]
+Applying requests
+Writing results
+Killing Process: 29598
+
+Waiting...
+
+End of execution: 67
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.016006) Writing stats
+Killed node(29568) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29596 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964857808287861, 6964859412665814]
+Applying requests
+Writing results
+Killing Process: 29626
+
+Waiting...
+
+End of execution: 68
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.017221) Writing stats
+Killed node(29596) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29624 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964885741917294, 6964887295302607]
+Applying requests
+Writing results
+Killing Process: 29654
+
+Waiting...
+
+End of execution: 69
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.018721) Writing stats
+Killed node(29624) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29652 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964914110161925, 6964915696899841]
+Applying requests
+Writing results
+Killing Process: 29682
+
+Waiting...
+
+End of execution: 70
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.018674) Writing stats
+Killed node(29652) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29680 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964942475263701, 6964944052216937]
+Applying requests
+Writing results
+Killing Process: 29710
+
+Waiting...
+
+End of execution: 71
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.015062) Writing stats
+Killed node(29680) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29708 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964970970113945, 6964972540102417]
+Applying requests
+Writing results
+Killing Process: 29738
+
+Waiting...
+
+End of execution: 72
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.021998) Writing stats
+Killed node(29708) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29736 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6964999078034813, 6965000662161206]
+Applying requests
+Writing results
+Killing Process: 29766
+
+Waiting...
+
+End of execution: 73
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.016380) Writing stats
+Killed node(29736) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29764 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6965027465744593, 6965029058459523]
+Applying requests
+Writing results
+Killing Process: 29794
+
+Waiting...
+
+End of execution: 74
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.020233) Writing stats
+Killed node(29764) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29792 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6965055857413958, 6965057605871033]
+Applying requests
+Writing results
+Killing Process: 29822
+
+Waiting...
+
+End of execution: 75
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.021356) Writing stats
+Killed node(29792) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29820 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6965085091398048, 6965086777173600]
+Applying requests
+Writing results
+Killing Process: 29850
+
+Waiting...
+
+End of execution: 76
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.022827) Writing stats
+Killed node(29820) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29848 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6965113803184186, 6965115535207180]
+Applying requests
+Writing results
+Killing Process: 29878
+
+Waiting...
+
+End of execution: 77
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.020546) Writing stats
+Killed node(29848) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29877 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6965142426304601, 6965144106984688]
+Applying requests
+Writing results
+Killing Process: 29907
+
+Waiting...
+
+End of execution: 78
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.021729) Writing stats
+Killed node(29877) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29905 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6965169850773316, 6965171463584463]
+Applying requests
+Writing results
+Killing Process: 29935
+
+Waiting...
+
+End of execution: 79
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.016893) Writing stats
+Killed node(29905) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29933 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6965198185380715, 6965199747274469]
+Applying requests
+Writing results
+Killing Process: 29963
+
+Waiting...
+
+End of execution: 80
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.016452) Writing stats
+Killed node(29933) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29961 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6965225453260264, 6965227236242212]
+Applying requests
+Writing results
+Killing Process: 29991
+
+Waiting...
+
+End of execution: 81
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.020274) Writing stats
+Killed node(29961) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 29989 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6965253604780033, 6965255215635200]
+Applying requests
+Writing results
+Killing Process: 30019
+
+Waiting...
+
+End of execution: 82
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.023622) Writing stats
+Killed node(29989) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 30017 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6965281507441207, 6965283079022047]
+Applying requests
+Writing results
+Killing Process: 30047
+
+Waiting...
+
+End of execution: 83
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.016456) Writing stats
+Killed node(30017) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 30045 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6965309436671389, 6965311038264130]
+Applying requests
+Writing results
+Killing Process: 30075
+
+Waiting...
+
+End of execution: 84
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.014124) Writing stats
+Killed node(30045) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 30073 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6965337094690300, 6965338643564871]
+Applying requests
+Writing results
+Killing Process: 30103
+
+Waiting...
+
+End of execution: 85
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.018366) Writing stats
+Killed node(30073) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 30101 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6965365122966894, 6965366834267993]
+Applying requests
+Writing results
+Killing Process: 30132
+
+Waiting...
+
+End of execution: 86
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.024634) Writing stats
+Killed node(30101) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 30129 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6965393219566926, 6965394797047854]
+Applying requests
+Writing results
+Killing Process: 30159
+
+Waiting...
+
+End of execution: 87
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.026859) Writing stats
+Killed node(30129) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 30157 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6965420635165087, 6965422163760252]
+Applying requests
+Writing results
+Killing Process: 30187
+
+Waiting...
+
+End of execution: 88
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.016026) Writing stats
+Killed node(30157) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 30186 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6965448347589415, 6965449831563814]
+Applying requests
+Writing results
+Killing Process: 30216
+
+Waiting...
+
+End of execution: 89
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.020548) Writing stats
+Killed node(30186) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 30214 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6965475736670614, 6965477267144044]
+Applying requests
+Writing results
+Killing Process: 30244
+
+Waiting...
+
+End of execution: 90
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.016317) Writing stats
+Killed node(30214) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 30242 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6965502537851087, 6965504155830599]
+Applying requests
+Writing results
+Killing Process: 30272
+
+Waiting...
+
+End of execution: 91
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.018178) Writing stats
+Killed node(30242) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 30270 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6965530419296115, 6965532058360498]
+Applying requests
+Writing results
+Killing Process: 30300
+
+Waiting...
+
+End of execution: 92
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019082) Writing stats
+Killed node(30270) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 30298 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6965558089296118, 6965559687379003]
+Applying requests
+Writing results
+Killing Process: 30328
+
+Waiting...
+
+End of execution: 93
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019414) Writing stats
+Killed node(30298) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 30326 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6965586040997923, 6965587645460309]
+Applying requests
+Writing results
+Killing Process: 30356
+
+Waiting...
+
+End of execution: 94
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.021635) Writing stats
+Killed node(30326) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 30354 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6965613927750454, 6965615658102036]
+Applying requests
+Writing results
+Killing Process: 30384
+
+Waiting...
+
+End of execution: 95
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.016714) Writing stats
+Killed node(30354) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 30383 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6965642623564054, 6965644192725525]
+Applying requests
+Writing results
+Killing Process: 30413
+
+Waiting...
+
+End of execution: 96
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.016118) Writing stats
+Killed node(30383) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 30411 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6965670049796772, 6965671615058302]
+Applying requests
+Writing results
+Killing Process: 30442
+
+Waiting...
+
+End of execution: 97
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.025004) Writing stats
+Killed node(30411) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 30440 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6965697934632212, 6965699499149344]
+Applying requests
+Writing results
+Killing Process: 30470
+
+Waiting...
+
+End of execution: 98
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.017156) Writing stats
+Killed node(30440) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 30468 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6965725621307913, 6965727208334939]
+Applying requests
+Writing results
+Killing Process: 30498
+
+Waiting...
+
+End of execution: 99
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.018424) Writing stats
+Killed node(30468) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 30497 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6965753902660690, 6965755515566276]
+Applying requests
+Writing results
+Killing Process: 30527
+
+Waiting...
+
+End of execution: 100
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.018985) Writing stats
+Killed node(30497) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 30525 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6965781942150688, 6965783477806091]
+Applying requests
+Writing results
+Killing Process: 30555
+
+Waiting...
+
+End of execution: 101
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.020704) Writing stats
+Killed node(30525) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 30553 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6965810244709940, 6965811881373515]
+Applying requests
+Writing results
+Killing Process: 30583
+
+Waiting...
+
+End of execution: 102
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019518) Writing stats
+Killed node(30553) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 30582 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6965837872838551, 6965839373176422]
+Applying requests
+Writing results
+Killing Process: 30612
+
+Waiting...
+
+End of execution: 103
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.020507) Writing stats
+Killed node(30582) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 30611 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6965866085632374, 6965867850093807]
+Applying requests
+Writing results
+Killing Process: 30641
+
+Waiting...
+
+End of execution: 104
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.022140) Writing stats
+Killed node(30611) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 30639 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6965893767415803, 6965895311080467]
+Applying requests
+Writing results
+Killing Process: 30669
+
+Waiting...
+
+End of execution: 105
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.014948) Writing stats
+Killed node(30639) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 30667 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6965921424505219, 6965923002104670]
+Applying requests
+Writing results
+Killing Process: 30697
+
+Waiting...
+
+End of execution: 106
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.018389) Writing stats
+Killed node(30667) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 30695 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6965949173653515, 6965950891802615]
+Applying requests
+Writing results
+Killing Process: 30725
+
+Waiting...
+
+End of execution: 107
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.021530) Writing stats
+Killed node(30695) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 30723 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6965976957698551, 6965978548379262]
+Applying requests
+Writing results
+Killing Process: 30753
+
+Waiting...
+
+End of execution: 108
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.016485) Writing stats
+Killed node(30723) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 30751 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966004379176099, 6966005981246778]
+Applying requests
+Writing results
+Killing Process: 30781
+
+Waiting...
+
+End of execution: 109
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019791) Writing stats
+Killed node(30751) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 30781 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966032030745941, 6966033637237627]
+Applying requests
+Writing results
+Killing Process: 30811
+
+Waiting...
+
+End of execution: 110
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.017873) Writing stats
+Killed node(30781) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 30810 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966060650482677, 6966062229786312]
+Applying requests
+Writing results
+Killing Process: 30840
+
+Waiting...
+
+End of execution: 111
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.021640) Writing stats
+Killed node(30810) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 30838 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966088200604558, 6966089835049347]
+Applying requests
+Writing results
+Killing Process: 30868
+
+Waiting...
+
+End of execution: 112
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.016712) Writing stats
+Killed node(30838) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 30866 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966116857169415, 6966118486773811]
+Applying requests
+Writing results
+Killing Process: 30896
+
+Waiting...
+
+End of execution: 113
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.018249) Writing stats
+Killed node(30866) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 30894 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966144964363133, 6966146650084332]
+Applying requests
+Writing results
+Killing Process: 30924
+
+Waiting...
+
+End of execution: 114
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.022069) Writing stats
+Killed node(30894) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 30922 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966172956405808, 6966174641633670]
+Applying requests
+Writing results
+Killing Process: 30952
+
+Waiting...
+
+End of execution: 115
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.021275) Writing stats
+Killed node(30922) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 30950 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966200655296364, 6966202253153900]
+Applying requests
+Writing results
+Killing Process: 30980
+
+Waiting...
+
+End of execution: 116
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.021047) Writing stats
+Killed node(30950) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 30978 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966228815696953, 6966230654907793]
+Applying requests
+Writing results
+Killing Process: 31008
+
+Waiting...
+
+End of execution: 117
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.020001) Writing stats
+Killed node(30978) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31007 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966257123464227, 6966258649859005]
+Applying requests
+Writing results
+Killing Process: 31039
+
+Waiting...
+
+End of execution: 118
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.015983) Writing stats
+Killed node(31007) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31037 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966285380609764, 6966287164550577]
+Applying requests
+Writing results
+Killing Process: 31067
+
+Waiting...
+
+End of execution: 119
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.023307) Writing stats
+Killed node(31037) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31065 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966312846930771, 6966314474812567]
+Applying requests
+Writing results
+Killing Process: 31095
+
+Waiting...
+
+End of execution: 120
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.023174) Writing stats
+Killed node(31065) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31093 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966340711585234, 6966342357942792]
+Applying requests
+Writing results
+Killing Process: 31123
+
+Waiting...
+
+End of execution: 121
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.017446) Writing stats
+Killed node(31093) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31123 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966368781920564, 6966370390884324]
+Applying requests
+Writing results
+Killing Process: 31153
+
+Waiting...
+
+End of execution: 122
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019993) Writing stats
+Killed node(31123) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31151 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966396362394637, 6966397917191559]
+Applying requests
+Writing results
+Killing Process: 31181
+
+Waiting...
+
+End of execution: 123
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019068) Writing stats
+Killed node(31151) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31179 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966423858093097, 6966425346669903]
+Applying requests
+Writing results
+Killing Process: 31209
+
+Waiting...
+
+End of execution: 124
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.014488) Writing stats
+Killed node(31179) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31207 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966451317131252, 6966452887566521]
+Applying requests
+Writing results
+Killing Process: 31237
+
+Waiting...
+
+End of execution: 125
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019144) Writing stats
+Killed node(31207) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31235 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966478894637054, 6966480398502234]
+Applying requests
+Writing results
+Killing Process: 31265
+
+Waiting...
+
+End of execution: 126
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.017189) Writing stats
+Killed node(31235) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31263 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966506539588836, 6966508123366059]
+Applying requests
+Writing results
+Killing Process: 31293
+
+Waiting...
+
+End of execution: 127
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.018684) Writing stats
+Killed node(31263) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31291 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966534547369795, 6966536185209661]
+Applying requests
+Writing results
+Killing Process: 31321
+
+Waiting...
+
+End of execution: 128
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.023174) Writing stats
+Killed node(31291) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31319 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966562507733584, 6966564031275280]
+Applying requests
+Writing results
+Killing Process: 31349
+
+Waiting...
+
+End of execution: 129
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019271) Writing stats
+Killed node(31319) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31347 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966590646789624, 6966592248822531]
+Applying requests
+Writing results
+Killing Process: 31377
+
+Waiting...
+
+End of execution: 130
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019547) Writing stats
+Killed node(31347) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31375 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966618841578248, 6966620395507549]
+Applying requests
+Writing results
+Killing Process: 31405
+
+Waiting...
+
+End of execution: 131
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.020678) Writing stats
+Killed node(31375) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31403 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966646691417612, 6966648267356523]
+Applying requests
+Writing results
+Killing Process: 31433
+
+Waiting...
+
+End of execution: 132
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.016853) Writing stats
+Killed node(31403) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31432 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966674514647267, 6966676359071232]
+Applying requests
+Writing results
+Killing Process: 31462
+
+Waiting...
+
+End of execution: 133
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.017935) Writing stats
+Killed node(31432) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31460 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966702805276677, 6966704403375075]
+Applying requests
+Writing results
+Killing Process: 31490
+
+Waiting...
+
+End of execution: 134
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.023859) Writing stats
+Killed node(31460) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31488 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966730677680784, 6966732409780293]
+Applying requests
+Writing results
+Killing Process: 31518
+
+Waiting...
+
+End of execution: 135
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019816) Writing stats
+Killed node(31488) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31516 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966758558974294, 6966760323266912]
+Applying requests
+Writing results
+Killing Process: 31546
+
+Waiting...
+
+End of execution: 136
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.016184) Writing stats
+Killed node(31516) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31544 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966786538769333, 6966788080224481]
+Applying requests
+Writing results
+Killing Process: 31574
+
+Waiting...
+
+End of execution: 137
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.015756) Writing stats
+Killed node(31544) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31572 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966814195496783, 6966815781747232]
+Applying requests
+Writing results
+Killing Process: 31602
+
+Waiting...
+
+End of execution: 138
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.017443) Writing stats
+Killed node(31572) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31600 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966842419500546, 6966843986113197]
+Applying requests
+Writing results
+Killing Process: 31630
+
+Waiting...
+
+End of execution: 139
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019231) Writing stats
+Killed node(31600) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31628 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966870126726820, 6966871753315255]
+Applying requests
+Writing results
+Killing Process: 31658
+
+Waiting...
+
+End of execution: 140
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.017857) Writing stats
+Killed node(31628) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31656 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966897673023577, 6966899265784956]
+Applying requests
+Writing results
+Killing Process: 31686
+
+Waiting...
+
+End of execution: 141
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.020450) Writing stats
+Killed node(31656) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31684 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966925490240637, 6966927066808923]
+Applying requests
+Writing results
+Killing Process: 31714
+
+Waiting...
+
+End of execution: 142
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019998) Writing stats
+Killed node(31684) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31712 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966953734971718, 6966955447059427]
+Applying requests
+Writing results
+Killing Process: 31742
+
+Waiting...
+
+End of execution: 143
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.015762) Writing stats
+Killed node(31712) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31741 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6966982191805923, 6966983850716876]
+Applying requests
+Writing results
+Killing Process: 31771
+
+Waiting...
+
+End of execution: 144
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.021086) Writing stats
+Killed node(31741) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31769 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967010406593550, 6967011927820935]
+Applying requests
+Writing results
+Killing Process: 31799
+
+Waiting...
+
+End of execution: 145
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.022326) Writing stats
+Killed node(31769) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31797 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967039425616361, 6967041096123419]
+Applying requests
+Writing results
+Killing Process: 31827
+
+Waiting...
+
+End of execution: 146
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.016646) Writing stats
+Killed node(31797) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31825 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967067174000801, 6967068793944986]
+Applying requests
+Writing results
+Killing Process: 31855
+
+Waiting...
+
+End of execution: 147
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.017984) Writing stats
+Killed node(31825) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31853 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967095947216063, 6967097614600243]
+Applying requests
+Writing results
+Killing Process: 31883
+
+Waiting...
+
+End of execution: 148
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019933) Writing stats
+Killed node(31853) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31881 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967123819630766, 6967125376462699]
+Applying requests
+Writing results
+Killing Process: 31911
+
+Waiting...
+
+End of execution: 149
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.016463) Writing stats
+Killed node(31881) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31909 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967152155276395, 6967153851303571]
+Applying requests
+Writing results
+Killing Process: 31939
+
+Waiting...
+
+End of execution: 150
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.023488) Writing stats
+Killed node(31909) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31937 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967180129714613, 6967181881157196]
+Applying requests
+Writing results
+Killing Process: 31967
+
+Waiting...
+
+End of execution: 151
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.021132) Writing stats
+Killed node(31937) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31965 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967208304664224, 6967209934090828]
+Applying requests
+Writing results
+Killing Process: 31995
+
+Waiting...
+
+End of execution: 152
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019667) Writing stats
+Killed node(31965) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 31993 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967236158397271, 6967237854208794]
+Applying requests
+Writing results
+Killing Process: 32023
+
+Waiting...
+
+End of execution: 153
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.018599) Writing stats
+Killed node(31993) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 32021 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967264390134238, 6967266113590941]
+Applying requests
+Writing results
+Killing Process: 32051
+
+Waiting...
+
+End of execution: 154
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.020582) Writing stats
+Killed node(32021) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 32050 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967292419770376, 6967294295474668]
+Applying requests
+Writing results
+Killing Process: 32080
+
+Waiting...
+
+End of execution: 155
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019360) Writing stats
+Killed node(32050) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 32078 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967321324896677, 6967322946571427]
+Applying requests
+Writing results
+Killing Process: 32108
+
+Waiting...
+
+End of execution: 156
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019345) Writing stats
+Killed node(32078) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 32106 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967349326958086, 6967350947134160]
+Applying requests
+Writing results
+Killing Process: 32136
+
+Waiting...
+
+End of execution: 157
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019089) Writing stats
+Killed node(32106) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 32134 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967377844439236, 6967379460524081]
+Applying requests
+Writing results
+Killing Process: 32164
+
+Waiting...
+
+End of execution: 158
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.016441) Writing stats
+Killed node(32134) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 32162 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967405870557872, 6967407545035360]
+Applying requests
+Writing results
+Killing Process: 32193
+
+Waiting...
+
+End of execution: 159
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.016114) Writing stats
+Killed node(32162) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 32190 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967434823519612, 6967436412931305]
+Applying requests
+Writing results
+Killing Process: 32220
+
+Waiting...
+
+End of execution: 160
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019556) Writing stats
+Killed node(32190) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 32218 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967462731329805, 6967464303669732]
+Applying requests
+Writing results
+Killing Process: 32248
+
+Waiting...
+
+End of execution: 161
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.020906) Writing stats
+Killed node(32218) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 32246 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967491169649585, 6967492911381478]
+Applying requests
+Writing results
+Killing Process: 32276
+
+Waiting...
+
+End of execution: 162
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.018832) Writing stats
+Killed node(32246) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 32274 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967519473883382, 6967521139027717]
+Applying requests
+Writing results
+Killing Process: 32304
+
+Waiting...
+
+End of execution: 163
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.017276) Writing stats
+Killed node(32274) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 32305 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967547818929161, 6967549428905145]
+Applying requests
+Writing results
+Killing Process: 32335
+
+Waiting...
+
+End of execution: 164
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.018890) Writing stats
+Killed node(32305) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 32333 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967575952682350, 6967577489655519]
+Applying requests
+Writing results
+Killing Process: 32363
+
+Waiting...
+
+End of execution: 165
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.016945) Writing stats
+Killed node(32333) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 32362 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967603536800830, 6967605122467493]
+Applying requests
+Writing results
+Killing Process: 32392
+
+Waiting...
+
+End of execution: 166
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.020439) Writing stats
+Killed node(32362) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 32390 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967631443359162, 6967633193358323]
+Applying requests
+Writing results
+Killing Process: 32420
+
+Waiting...
+
+End of execution: 167
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.022123) Writing stats
+Killed node(32390) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 32418 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967659790773215, 6967661471086726]
+Applying requests
+Writing results
+Killing Process: 32448
+
+Waiting...
+
+End of execution: 168
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.017388) Writing stats
+Killed node(32418) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 32446 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967687815621255, 6967689389578198]
+Applying requests
+Writing results
+Killing Process: 32476
+
+Waiting...
+
+End of execution: 169
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.018701) Writing stats
+Killed node(32446) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 32474 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967716330090277, 6967717944781619]
+Applying requests
+Writing results
+Killing Process: 32504
+
+Waiting...
+
+End of execution: 170
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.020389) Writing stats
+Killed node(32474) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 32502 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967743886283773, 6967745482661286]
+Applying requests
+Writing results
+Killing Process: 32532
+
+Waiting...
+
+End of execution: 171
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.016114) Writing stats
+Killed node(32502) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 32530 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967771761457262, 6967773346460582]
+Applying requests
+Writing results
+Killing Process: 32560
+
+Waiting...
+
+End of execution: 172
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019409) Writing stats
+Killed node(32530) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 32558 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967799277301662, 6967800860230857]
+Applying requests
+Writing results
+Killing Process: 32588
+
+Waiting...
+
+End of execution: 173
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019789) Writing stats
+Killed node(32558) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 32586 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967826593609770, 6967828120521342]
+Applying requests
+Writing results
+Killing Process: 32616
+
+Waiting...
+
+End of execution: 174
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.020831) Writing stats
+Killed node(32586) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 32614 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967854435948218, 6967856193937997]
+Applying requests
+Writing results
+Killing Process: 32644
+
+Waiting...
+
+End of execution: 175
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.023689) Writing stats
+Killed node(32614) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 32642 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967882596419162, 6967884172458593]
+Applying requests
+Writing results
+Killing Process: 32673
+
+Waiting...
+
+End of execution: 176
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019567) Writing stats
+Killed node(32642) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 32671 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967910505664933, 6967912143631194]
+Applying requests
+Writing results
+Killing Process: 32701
+
+Waiting...
+
+End of execution: 177
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.018393) Writing stats
+Killed node(32671) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 32699 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967939213552534, 6967940846155447]
+Applying requests
+Writing results
+Killing Process: 32729
+
+Waiting...
+
+End of execution: 178
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.020650) Writing stats
+Killed node(32699) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 32727 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967967161325379, 6967968711225176]
+Applying requests
+Writing results
+Killing Process: 32757
+
+Waiting...
+
+End of execution: 179
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019935) Writing stats
+Killed node(32727) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75: 32755 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6967994861090949, 6967996354831978]
+Applying requests
+Writing results
+Killing Process: 317
+
+Waiting...
+
+End of execution: 180
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019627) Writing stats
+Killed node(32755) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75:   315 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6968022355706680, 6968023932803628]
+Applying requests
+Writing results
+Killing Process: 345
+
+Waiting...
+
+End of execution: 181
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.024770) Writing stats
+Killed node(315) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75:   343 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6968051042539647, 6968053146417628]
+Applying requests
+Writing results
+Killing Process: 375
+
+Waiting...
+
+End of execution: 182
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.023281) Writing stats
+Killed node(343) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75:   372 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6968079742056845, 6968081368161859]
+Applying requests
+Writing results
+Killing Process: 406
+
+Waiting...
+
+End of execution: 183
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.018512) Writing stats
+Killed node(372) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75:   404 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6968107522424035, 6968109053663143]
+Applying requests
+Writing results
+Killing Process: 434
+
+Waiting...
+
+End of execution: 184
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.015691) Writing stats
+Killed node(404) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75:   432 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6968135455801788, 6968137038891081]
+Applying requests
+Writing results
+Killing Process: 465
+
+Waiting...
+
+End of execution: 185
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019089) Writing stats
+Killed node(432) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75:   463 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6968163259367320, 6968164952896983]
+Applying requests
+Writing results
+Killing Process: 501
+
+Waiting...
+
+End of execution: 186
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019464) Writing stats
+Killed node(463) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75:   498 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6968190559616004, 6968192412846291]
+Applying requests
+Writing results
+Killing Process: 531
+
+Waiting...
+
+End of execution: 187
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.020941) Writing stats
+Killed node(498) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75:   530 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6968219207532197, 6968220935819264]
+Applying requests
+Writing results
+Killing Process: 560
+
+Waiting...
+
+End of execution: 188
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.015287) Writing stats
+Killed node(530) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75:   558 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6968247390811039, 6968249009651321]
+Applying requests
+Writing results
+Killing Process: 588
+
+Waiting...
+
+End of execution: 189
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.017988) Writing stats
+Killed node(558) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75:   586 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6968275131782117, 6968276669773512]
+Applying requests
+Writing results
+Killing Process: 617
+
+Waiting...
+
+End of execution: 190
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.016835) Writing stats
+Killed node(586) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75:   615 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6968303287796635, 6968304828826799]
+Applying requests
+Writing results
+Killing Process: 645
+
+Waiting...
+
+End of execution: 191
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.018541) Writing stats
+Killed node(615) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75:   643 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6968331045024073, 6968332623146764]
+Applying requests
+Writing results
+Killing Process: 673
+
+Waiting...
+
+End of execution: 192
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.020786) Writing stats
+Killed node(643) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75:   671 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6968358880522007, 6968360534971849]
+Applying requests
+Writing results
+Killing Process: 701
+
+Waiting...
+
+End of execution: 193
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.021138) Writing stats
+Killed node(671) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75:   699 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6968387029079259, 6968388513472973]
+Applying requests
+Writing results
+Killing Process: 729
+
+Waiting...
+
+End of execution: 194
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.018455) Writing stats
+Killed node(699) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75:   727 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6968415342774115, 6968417051825243]
+Applying requests
+Writing results
+Killing Process: 757
+
+Waiting...
+
+End of execution: 195
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019235) Writing stats
+Killed node(727) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75:   755 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6968443123301224, 6968444786637267]
+Applying requests
+Writing results
+Killing Process: 785
+
+Waiting...
+
+End of execution: 196
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019815) Writing stats
+Killed node(755) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75:   783 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6968471089056983, 6968472778152183]
+Applying requests
+Writing results
+Killing Process: 813
+
+Waiting...
+
+End of execution: 197
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.020042) Writing stats
+Killed node(783) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75:   811 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6968498541070421, 6968500103168655]
+Applying requests
+Writing results
+Killing Process: 841
+
+Waiting...
+
+End of execution: 198
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.021496) Writing stats
+Killed node(811) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75:   840 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6968526367773686, 6968528089262240]
+Applying requests
+Writing results
+Killing Process: 870
+
+Waiting...
+
+End of execution: 199
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.019337) Writing stats
+Killed node(840) with signal 15
+python3: no process found
+java: no process found
+functions/nodejs/nodejs-criu-builder.sh: line 75:   868 Killed                  setsid node app.js < /dev/null &> $CRIU_APP_OUTPUT
+Criu Handler Type
+Dir [/home/ubuntu/tcc-mafra-prebaking/functions/nodejs/big]
+Got Ready Time
+Values for Ready Time [6968554762306894, 6968556483715904]
+Applying requests
+Writing results
+Killing Process: 898
+
+Waiting...
+
+End of execution: 200
+
+Match: \(([0-9]+\.[0-9]+)\) Writing stats$ :: SwitchRestoreContinueTime :: (00.018697) Writing stats

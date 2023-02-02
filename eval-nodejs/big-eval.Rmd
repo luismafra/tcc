@@ -1,0 +1,163 @@
+---
+title: "TCC - Big Functions"
+author: "Luis Mafra"
+date: "09/09/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+options(scipen = 999)
+require(dplyr)
+require(ggplot2)
+library(boot)
+library(tidyr)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+get_startup <- function(df) {
+  df <- df %>% filter(Metric == "RuntimeReadyTime" & ReqID == 0) %>% select(ExecID, App, Value, Technique)
+  colnames(df) <- c("execID","app", "value", "technique")
+  df$value <- df$value / 10^6
+  return(df)
+}
+
+read_startup <- function(f) {
+  df <- read.csv(f)
+  return(get_startup(df))
+}
+
+# Reading data
+get_service_time <- function(df) {
+  df <- df %>% filter(Metric == "ServiceTime" & ReqID > 0) %>% select(ExecID, App, Value, Technique) %>% group_by(ExecID,App,Technique) %>% summarise(mean = mean(Value))
+  colnames(df) <- c("execID","app", "technique", "value")
+  df$value <- df$value / 10^6
+  return(df)
+}
+
+read_service_time <- function(f) {
+  df <- read.csv(f)
+  return (get_service_time(df))
+}
+
+# Reading data
+get_first_request_time_no_mean <- function(df) {
+  df <- df %>% filter(Metric == "ServiceTime", ReqID == 0) %>% select(ExecID, App, Value, Technique)
+  colnames(df) <- c("execID","app", "value", "technique")
+  df$value <- df$value / 10^6
+  return(df)
+}
+
+# Reading data
+get_first_request_time <- function(df) {
+  df <- df %>% filter(Metric == "ServiceTime", ReqID == 0) %>% select(App, Value, Technique) %>% group_by(App, Technique) %>% summarise(mean = mean(Value))
+  colnames(df) <- c("app", "technique", "value")
+  df$value <- df$value / 10^6
+  return(df)
+}
+
+read_request_time <- function(f) {
+  df <- read.csv(f)
+  return (get_first_request_time(df))
+}
+```
+
+## Plots
+
+```{r pressure, echo=FALSE}
+data <- read_startup("big_startup.csv")
+
+ggplot(data, aes(x = app, y = value, color = technique)) +
+  geom_boxplot() +
+  labs(color = "Técnica", y = "Tempo de inicializar (ms)", x = "") +
+  scale_x_discrete(limits = c("Small", "Medium", "Large")) +
+  theme_bw() +
+  ggtitle("") +
+  theme(legend.position = "top")
+```
+## Tempo de resposta médio
+```{r pressure, echo=FALSE}
+data_service <- read_service_time("big_startup.csv")
+
+ggplot(data_service, aes(x = app, y = value, color = technique)) +
+  geom_boxplot() +
+  labs(color = "Técnica", y = "Tempo de resposta (ms)", x = "") +
+  theme_bw() +
+  scale_x_discrete(limits = c("Small", "Medium", "Large")) +
+  ggtitle("") +
+  theme(legend.position = "top")
+```
+
+## First Request
+
+```{r pressure, echo=FALSE}
+data_request <- get_first_request_time_no_mean(read.csv("big_startup.csv"))
+
+ggplot(data_request, aes(x = app, y = value, color = technique)) +
+  geom_boxplot() +
+  labs(color = "Técnica", y = "Tempo de execução (ms)", x = "") +
+  theme_bw() +
+  scale_x_discrete(limits = c("Small", "Medium", "Large")) +
+  ggtitle("") +
+  theme(legend.position = "top")
+```
+
+## First Request with Startup-time
+
+```{r pressure, echo=FALSE}
+data_request <- get_first_request_time_no_mean(read.csv("big_startup.csv"))
+data <- read_startup("big_startup.csv")
+
+cold_request_time <- merge(data,data_request, by=c("execID","app","technique"))
+colnames(cold_request_time) <- c("execID","app", "technique", "startup","first_request")
+cold_request_time <- cold_request_time %>% mutate(total = startup + first_request)
+
+ggplot(cold_request_time, aes(x = app, y = total, color = technique)) +
+  geom_boxplot() +
+  labs(color = "Técnica", y = "Cold Start (ms)", x = "") +
+  theme_bw() +
+  scale_x_discrete(limits = c("Small", "Medium", "Large")) +
+  ggtitle("") +
+  theme(legend.position = "top")
+```
+```{r pressure, echo=FALSE}
+x = pivot_longer(cold_request_time,c(startup,first_request))
+
+names = c(
+  'first_request' = "Tempo de execução da função",
+  'startup' = "Tempo de inicializar"
+)
+
+ggplot(x, aes(x = app, y = value, color = technique)) +
+  geom_boxplot() +
+  labs(color = "Técnica", y = "Cold Start(ms)", x = "") +
+  theme_bw() +
+  facet_wrap(~name, labeller = as_labeller(names)) +
+  scale_x_discrete(limits = c("Small", "Medium", "Large")) +
+  ggtitle("") +
+  theme(legend.position = "top")
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+## Calculate mean values with CI of 95%
+
+```{r pressure, echo=FALSE}
+x = cold_request_time %>% group_by(app, technique) %>% dplyr::summarise(upper = CI(total)[1], lower = CI(total)[3])
+x$upper = round(x$upper, digits = 1)
+x$lower = round(x$lower, digits = 1)
+y = x %>% filter(technique == "Vanilla")
+z = merge(x,y,by="app")
+z = z %>% dplyr::mutate(lower_percent = ((lower.x / lower.y) - 1)* (-100), upper_percent =  ((upper.x / upper.y) - 1)* (-100))
+z$upper_percent = round(z$upper_percent, digits = 1)
+z$lower_percent = round(z$lower_percent, digits = 1)
+```

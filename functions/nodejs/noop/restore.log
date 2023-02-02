@@ -1,0 +1,24 @@
+(00.000119) Version: 3.16 (gitid 0)
+(00.000138) Running on seuss-journal Linux 4.15.0-142-generic #146-Ubuntu SMP Tue Apr 13 01:11:19 UTC 2021 x86_64
+(00.000146) Warn  (criu/kerndat.c:831): Can't load /run/criu.kdat
+(00.000165) sockets: Probing sock diag modules
+(00.000213) sockets: Done probing
+(00.002748) Error (criu/util.c:635): exited, status=3
+(00.007174) Error (criu/util.c:635): exited, status=3
+(00.007337) Pagemap provides flags only
+(00.007534) Found anon-shmem device at 5
+(00.007546) Reset 3928's dirty tracking
+(00.007576) Dirty tracking support is OFF
+(00.007582) Zero page detection failed, optimization turns off.
+(00.007780) Warn  (criu/proc_parse.c:886): Write 4294967295 to /proc/self/loginuid failed: Operation not permitted
+(00.015660) Warn  (criu/net.c:3442): Unable to get tun network namespace
+(00.015701) Warn  (criu/sk-unix.c:224): unix: Unable to open a socket file: Operation not permitted
+(00.016024) Error (criu/net.c:3726): Unable create a network namespace: Operation not permitted
+(00.016469) Warn  (criu/net.c:3782): NSID isn't reported for network links
+(00.018862) Warn  (criu/net.c:3442): Unable to get socket network namespace
+(00.019127) The new mount API (fsopen, fsmount) isn't supported
+(00.019173) Error (criu/net.c:1246): Unexpected error: -1(Operation not permitted)
+(00.019198) Warn  (criu/kerndat.c:1088): Can't get pidfd
+(00.019250) Warn  (criu/kerndat.c:1205): CRIU was built without libnftables support
+(00.019367) No inventory.img image
+(00.019376) Error (criu/protobuf.c:72): Unexpected EOF on (empty-image)

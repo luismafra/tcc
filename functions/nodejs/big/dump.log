@@ -1,0 +1,141 @@
+(00.000142) Version: 3.16 (gitid 0)
+(00.000240) Running on seuss-journal Linux 4.15.0-163-generic #171-Ubuntu SMP Fri Nov 5 11:55:11 UTC 2021 x86_64
+(00.000264) File /run/criu.kdat does not exist
+(00.000353) sockets: Probing sock diag modules
+(00.000477) sockets: Done probing
+(00.002458) Error (criu/util.c:635): exited, status=3
+(00.006884) Error (criu/util.c:635): exited, status=3
+(00.006961) Pagemap provides flags only
+(00.007176) Found anon-shmem device at 5
+(00.007192) Reset 1292's dirty tracking
+(00.007207) Dirty tracking support is OFF
+(00.007216) Zero page detection failed, optimization turns off.
+(00.007277) Found task size of 7ffffffff000
+(00.007368) Warn  (criu/proc_parse.c:886): Write 4294967295 to /proc/self/loginuid failed: Operation not permitted
+(00.013007) Warn  (criu/net.c:3442): Unable to get tun network namespace
+(00.013042) Warn  (criu/sk-unix.c:224): unix: Unable to open a socket file: Operation not permitted
+(00.013400) Error (criu/net.c:3726): Unable create a network namespace: Operation not permitted
+(00.013890) Warn  (criu/net.c:3782): NSID isn't reported for network links
+(00.014671) vdso: Parsing at 7ffcc25bf000 7ffcc25c1000
+(00.014681) vdso: PT_LOAD p_vaddr: 0
+(00.014685) vdso: DT_HASH: 120
+(00.014689) vdso: DT_STRTAB: 298
+(00.014692) vdso: DT_SYMTAB: 1a8
+(00.014696) vdso: DT_STRSZ: 5e
+(00.014699) vdso: DT_SYMENT: 18
+(00.014703) vdso: nbucket 3 nchain a bucket 7ffcc25bf128 chain 7ffcc25bf134
+(00.014710) vdso: rt [vdso] 7ffcc25bf000-7ffcc25c1000 [vvar] 7ffcc25bc000-7ffcc25bf000
+(00.015407) vdso: Parsing at 7f8cf6a0f000 7f8cf6a11000
+(00.015429) vdso: PT_LOAD p_vaddr: 0
+(00.015433) vdso: DT_HASH: b4
+(00.015437) vdso: DT_STRTAB: 1c0
+(00.015440) vdso: DT_SYMTAB: 130
+(00.015443) vdso: DT_STRSZ: 95
+(00.015447) vdso: DT_SYMENT: 10
+(00.015450) vdso: nbucket 3 nchain 9 bucket 7f8cf6a0f0bc chain 7f8cf6a0f0c8
+(00.015457) vdso: compat [vdso] 7ffcc25c2000-7ffcc25c4000 [vvar] 7ffcc25bf000-7ffcc25c2000
+(00.017141) Warn  (criu/net.c:3442): Unable to get socket network namespace
+(00.017188) cpu: x86_family 6 x86_vendor_id GenuineIntel x86_model_id Intel Core Processor (Haswell, no TSX, IBRS)
+(00.017196) cpu: fpu: xfeatures_mask 0x5 xsave_size 832 xsave_size_max 832 xsaves_size 0
+(00.017201) cpu: fpu: x87 floating point registers     xstate_offsets      0 / 0      xstate_sizes    160 / 160   
+(00.017204) cpu: fpu: AVX registers                    xstate_offsets    576 / 576    xstate_sizes    256 / 256   
+(00.017318) The new mount API (fsopen, fsmount) isn't supported
+(00.017334) Time namespaces are not supported.
+(00.017365) Error (criu/net.c:1246): Unexpected error: -1(Operation not permitted)
+(00.017410) Warn  (criu/kerndat.c:1088): Can't get pidfd
+(00.017452) Warn  (criu/kerndat.c:1205): CRIU was built without libnftables support
+(00.017537) Found mmap_min_addr 0x10000
+(00.017549) files stat: fs/nr_open 1048576
+(00.017562) ========================================
+(00.017566) Dumping processes (pid: 1265)
+(00.017568) ========================================
+(00.017573) rlimit: RLIMIT_NOFILE unlimited for self
+(00.017581) Running pre-dump scripts
+(00.017637) irmap: Searching irmap cache in work dir
+(00.017652) No irmap-cache image
+(00.017658) irmap: Searching irmap cache in parent
+(00.017662) No parent images directory provided
+(00.017665) irmap: No irmap cache
+(00.017668) cpu: fpu:1 fxsr:1 xsave:1 xsaveopt:1 xsavec:0 xgetbv1:0 xsaves:0
+(00.017760) vdso: VDSO detection turned off
+(00.017772) cg-prop: Parsing controller "cpu"
+(00.017776) cg-prop: 	Strategy "replace"
+(00.017779) cg-prop: 	Property "cpu.shares"
+(00.017782) cg-prop: 	Property "cpu.cfs_period_us"
+(00.017784) cg-prop: 	Property "cpu.cfs_quota_us"
+(00.017787) cg-prop: 	Property "cpu.rt_period_us"
+(00.017789) cg-prop: 	Property "cpu.rt_runtime_us"
+(00.017792) cg-prop: Parsing controller "memory"
+(00.017795) cg-prop: 	Strategy "replace"
+(00.017797) cg-prop: 	Property "memory.limit_in_bytes"
+(00.017800) cg-prop: 	Property "memory.memsw.limit_in_bytes"
+(00.017802) cg-prop: 	Property "memory.swappiness"
+(00.017804) cg-prop: 	Property "memory.soft_limit_in_bytes"
+(00.017815) cg-prop: 	Property "memory.move_charge_at_immigrate"
+(00.017818) cg-prop: 	Property "memory.oom_control"
+(00.017820) cg-prop: 	Property "memory.use_hierarchy"
+(00.017822) cg-prop: 	Property "memory.kmem.limit_in_bytes"
+(00.017825) cg-prop: 	Property "memory.kmem.tcp.limit_in_bytes"
+(00.017827) cg-prop: Parsing controller "cpuset"
+(00.017830) cg-prop: 	Strategy "replace"
+(00.017832) cg-prop: 	Property "cpuset.cpus"
+(00.017835) cg-prop: 	Property "cpuset.mems"
+(00.017837) cg-prop: 	Property "cpuset.memory_migrate"
+(00.017839) cg-prop: 	Property "cpuset.cpu_exclusive"
+(00.017842) cg-prop: 	Property "cpuset.mem_exclusive"
+(00.017844) cg-prop: 	Property "cpuset.mem_hardwall"
+(00.017846) cg-prop: 	Property "cpuset.memory_spread_page"
+(00.017849) cg-prop: 	Property "cpuset.memory_spread_slab"
+(00.017851) cg-prop: 	Property "cpuset.sched_load_balance"
+(00.017854) cg-prop: 	Property "cpuset.sched_relax_domain_level"
+(00.017856) cg-prop: Parsing controller "blkio"
+(00.017858) cg-prop: 	Strategy "replace"
+(00.017861) cg-prop: 	Property "blkio.weight"
+(00.017863) cg-prop: Parsing controller "freezer"
+(00.017866) cg-prop: 	Strategy "replace"
+(00.017869) cg-prop: Parsing controller "perf_event"
+(00.017871) cg-prop: 	Strategy "replace"
+(00.017874) cg-prop: Parsing controller "net_cls"
+(00.017876) cg-prop: 	Strategy "replace"
+(00.017879) cg-prop: 	Property "net_cls.classid"
+(00.017881) cg-prop: Parsing controller "net_prio"
+(00.017884) cg-prop: 	Strategy "replace"
+(00.017886) cg-prop: 	Property "net_prio.ifpriomap"
+(00.017888) cg-prop: Parsing controller "pids"
+(00.017891) cg-prop: 	Strategy "replace"
+(00.017893) cg-prop: 	Property "pids.max"
+(00.017896) cg-prop: Parsing controller "devices"
+(00.017898) cg-prop: 	Strategy "replace"
+(00.017900) cg-prop: 	Property "devices.list"
+(00.017963) Preparing image inventory (version 1)
+(00.018017) Add pid ns 1 pid 1292
+(00.018032) Add net ns 2 pid 1292
+(00.018050) Add ipc ns 3 pid 1292
+(00.018059) Add uts ns 4 pid 1292
+(00.018066) Add time ns 5 pid 1292
+(00.018075) Add mnt ns 6 pid 1292
+(00.018084) Add user ns 7 pid 1292
+(00.018093) Add cgroup ns 8 pid 1292
+(00.018097) cg: Dumping cgroups for 1292
+(00.018128) cg:  `- New css ID 1
+(00.018131) cg:     `- [] -> [/user.slice/user-1000.slice/session-110.scope] [0]
+(00.018134) cg:     `- [blkio] -> [/user.slice] [0]
+(00.018136) cg:     `- [cpu,cpuacct] -> [/user.slice] [0]
+(00.018139) cg:     `- [cpuset] -> [/] [0]
+(00.018141) cg:     `- [devices] -> [/user.slice] [0]
+(00.018143) cg:     `- [freezer] -> [/] [0]
+(00.018146) cg:     `- [hugetlb] -> [/] [0]
+(00.018148) cg:     `- [memory] -> [/user.slice] [0]
+(00.018150) cg:     `- [name=systemd] -> [/user.slice/user-1000.slice/session-110.scope] [0]
+(00.018153) cg:     `- [net_cls,net_prio] -> [/] [0]
+(00.018155) cg:     `- [perf_event] -> [/] [0]
+(00.018157) cg:     `- [pids] -> [/user.slice/user-1000.slice/session-110.scope] [0]
+(00.018160) cg:     `- [rdma] -> [/] [0]
+(00.018162) cg: Set 1 is criu one
+(00.018182) Detected cgroup V1 freezer
+(00.018218) Warn  (compel/src/lib/infect.c:126): Unable to interrupt task: 1265 (Operation not permitted)
+(00.018239) Unlock network
+(00.018244) Unfreezing tasks into 1
+(00.018246) 	Unseizing 1265 into 1
+(00.018249) Error (compel/src/lib/infect.c:355): Unable to detach from 1265: No such process
+(00.018258) Error (criu/cr-dump.c:1781): Dumping FAILED.

@@ -1,0 +1,123 @@
+---
+title: "Join Files"
+author: "Luis Mafra"
+date: "31/10/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+options(scipen = 999)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+small_v <- read.csv("../results-nodejs/small-vanilla.csv")
+small_v$Technique <- "Vanilla"
+small_v$App <- "Small"
+small_v$Runtime <- "Node"
+
+small_pb <- read.csv("../results-nodejs/small-prebaking.csv")
+small_pb$Technique <- "Prebaking"
+small_pb$App <- "Small"
+small_pb$Runtime <- "Node"
+
+small_w <- read.csv("../results-nodejs/small-warm.csv")
+small_w$Technique <- "Prebaking Warm"
+small_w$App <- "Small"
+small_w$Runtime <- "Node"
+
+medium_v <- read.csv("../results-nodejs/medium-vanilla.csv")
+medium_v$Technique <- "Vanilla"
+medium_v$App <- "Medium"
+medium_v$Runtime <- "Node"
+
+medium_pb <- read.csv("../results-nodejs/medium-prebaking.csv")
+medium_pb$Technique <- "Prebaking"
+medium_pb$App <- "Medium"
+medium_pb$Runtime <- "Node"
+
+medium_w <- read.csv("../results-nodejs/medium-warm.csv")
+medium_w$Technique <- "Prebaking Warm"
+medium_w$App <- "Medium"
+medium_w$Runtime <- "Node"
+
+large_v <- read.csv("../results-nodejs/large-vanilla.csv")
+large_v$Technique <- "Vanilla"
+large_v$App <- "Large"
+large_v$Runtime <- "Node"
+
+large_pb <- read.csv("../results-nodejs/large-prebaking.csv")
+large_pb$Technique <- "Prebaking"
+large_pb$App <- "Large"
+large_pb$Runtime <- "Node"
+
+large_w <- read.csv("../results-nodejs/large-warm.csv")
+large_w$Technique <- "Prebaking Warm"
+large_w$App <- "Large"
+large_w$Runtime <- "Node"
+
+all <- rbind(small_v, small_pb, small_w, medium_v, medium_pb, medium_w, large_v, large_pb, large_w)
+
+write.csv(all,
+          file = "big_startup.csv",
+          row.names = FALSE)
+```
+
+```{r cars}
+noop_v <- read.csv("../results-nodejs/noop-vanilla.csv")
+noop_v$Technique <- "Vanilla"
+noop_v$App <- "NoOp"
+noop_v$Runtime <- "Node"
+
+noop_pb <- read.csv("../results-nodejs/noop-prebaking.csv")
+noop_pb$Technique <- "Prebaking"
+noop_pb$App <- "NoOp"
+noop_pb$Runtime <- "Node"
+
+noop_w <- read.csv("../results-nodejs/noop-warm.csv")
+noop_w$Technique <- "Prebaking Warm"
+noop_w$App <- "NoOp"
+noop_w$Runtime <- "Node"
+
+ir_v <- read.csv("../results-nodejs/thumb-vanilla.csv")
+ir_v$Technique <- "Vanilla"
+ir_v$App <- "Image Resizer"
+ir_v$Runtime <- "Node"
+
+ir_pb <- read.csv("../results-nodejs/thumb-prebaking.csv")
+ir_pb$Technique <- "Prebaking"
+ir_pb$App <- "Image Resizer"
+ir_pb$Runtime <- "Node"
+
+ir_w <- read.csv("../results-nodejs/thumb-warm.csv")
+ir_w$Technique <- "Prebaking Warm"
+ir_w$App <- "Image Resizer"
+ir_w$Runtime <- "Node"
+
+mk_v <- read.csv("../results-nodejs/markdown-vanilla.csv")
+mk_v$Technique <- "Vanilla"
+mk_v$App <- "Markdown"
+mk_v$Runtime <- "Node"
+
+mk_pb <- read.csv("../results-nodejs/markdown-prebaking.csv")
+mk_pb$Technique <- "Prebaking"
+mk_pb$App <- "Markdown"
+mk_pb$Runtime <- "Node"
+
+mk_w <- read.csv("../results-nodejs/markdown-warm.csv")
+mk_w$Technique <- "Prebaking Warm"
+mk_w$App <- "Markdown"
+mk_w$Runtime <- "Node"
+
+all <- rbind(noop_v, noop_pb, noop_w, ir_v, ir_pb, ir_w, mk_v, mk_pb, mk_w)
+
+write.csv(all,
+          file = "function_startup.csv",
+          row.names = FALSE)
+```

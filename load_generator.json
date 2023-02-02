@@ -1,0 +1,9 @@
+{
+    "EnvVars": ["scale=0.1", "image_path=/home/ubuntu/image.jpg"],
+    "Requests": 200,
+    "RequestSpec": {
+        "Method": "GET",
+        "Path": "/"
+    }
+}
+
